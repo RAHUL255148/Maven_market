@@ -1,45 +1,45 @@
-# Maven Market Power BI Dashboard (second_BI_project.pbix)
+# 📊 Maven Market | Power BI Dashboard
 
-:contentReference[oaicite:1]{index=1}
-
----
-
-## 📁 Project Overview
-
-:contentReference[oaicite:2]{index=2}
-
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+An interactive business intelligence dashboard for **Maven Market**, built using Power BI. This report analyzes sales, profits, customer behavior, product returns, and store performance across the US, Canada, and Mexico during 1997–1998.
 
 ---
 
-## 🔄 Data Import & Transformation
+## 🧩 Project Highlights
 
-:contentReference[oaicite:8]{index=8}
-
-1. Import CSVs:
-   - :contentReference[oaicite:9]{index=9}
-   - :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}
-   - :contentReference[oaicite:12]{index=12}
-   - :contentReference[oaicite:13]{index=13}
-   - :contentReference[oaicite:14]{index=14}
-   - :contentReference[oaicite:15]{index=15} :contentReference[oaicite:16]{index=16}
-
-2. :contentReference[oaicite:17]{index=17}
-   - :contentReference[oaicite:18]{index=18}  
-   - :contentReference[oaicite:19]{index=19} :contentReference[oaicite:20]{index=20}
+- 🔄 **End-to-End ETL** using Power Query  
+- 📐 **Star-Schema Modeling** with clear table relationships  
+- 💡 **DAX Measures** for dynamic KPIs and time intelligence  
+- 📈 **Visual Dashboards** with drill-throughs, filters, and slicers  
+- 🌎 **Regional Insights** by country, store, and customer demographics  
 
 ---
 
-## 🛠️ Data Modeling
+## 🚀 Features & Insights
 
-- :contentReference[oaicite:21]{index=21}
-  - :contentReference[oaicite:22]{index=22} :contentReference[oaicite:23]{index=23}
-- :contentReference[oaicite:24]{index=24}
+| 🔍 Area              | 📌 Focus                                                   |
+|---------------------|------------------------------------------------------------|
+| **Topline Metrics** | Transactions, Revenue, Profit, Return Rate, Profit Margin |
+| **Sales Trends**    | Monthly and Yearly comparisons                             |
+| **Product View**    | Top Brands, Product Returns, Discount Analysis             |
+| **Customer Insights** | High-value customers, Membership, Demographics          |
+| **Geo Analysis**    | Sales performance by Country, Region, Store               |
 
 ---
+
+## 📁 File Details
+
+- `first_BI_project.pbix` → Power BI file containing all transformations, models, DAX, and visuals
+
+---
+
+## 🛠️ How to Run
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/RAHUL255148/Maven_market.git
+cd Maven_market
+
 
 ## 📊 DAX Measures
 
